@@ -5,3 +5,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucianompjr)](https://twitter.com/lucianompjr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-marcos-pierdona-junior-3b3821198)](https://www.linkedin.com/in/luciano-marcos-pierdona-junior-3b3821198)
+
+<h1>Here is some information about my profile</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPierdona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucianoPierdona)](https://github.com/anuraghazra/github-readme-stats)
