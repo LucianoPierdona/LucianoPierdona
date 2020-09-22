@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPierdona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Spotify](https://spotify-music-stats-a0do4tp0a.vercel.app/api/spotify-playing)](https://open.spotify.com/user/gzwq5bzpffejatbb1m9ie315j)
+[![Spotify](https://spotify-music-stats-git-master.lucianopierdona.vercel.app/api/spotify)](https://open.spotify.com/user/gzwq5bzpffejatbb1m9ie315j)[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
