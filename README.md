@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 
-<h3>My name is Luciano Marcos Pierdona Junior and I'm currently living in Antônio Prado - Brazil, I'm in the beginning of a long journey into programming with react, react-native and the general of web development. In this profile you'll find a lot of projects, some of them I made and some I made in courses, hope you enjoy! :D</h3>
+<h3>My name is Luciano Marcos Pierdona Junior and I'm currently living in Antônio Prado - Brazil, I'm in the beginning of a long journey into programming with react, react-native and the general of web development. In this profile you'll find a lot of projects, some of them I made by myself or in courses, hope you enjoy! :D</h3>
 <br><br>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucianompjr)](https://twitter.com/lucianompjr)
