@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 
-<h3>My name is Luciano, I'm currently based in Antônio Prado - Brazil, in my currrent role I'm working with Nest.js and Next.js, both using Typescript. This profile includes some of my personal and course projects, hope you enjoy! :D</h3>
+<h3>I'm Luciano, based in Antônio Prado - Brazil and currently working with Backend development where my main programming language is Typescript. This profile includes some of my personal and course projects, hope you enjoy! :D</h3>
 <br><br>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucianompjr)](https://twitter.com/lucianompjr)
