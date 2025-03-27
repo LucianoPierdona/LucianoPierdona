@@ -11,3 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPierdona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-music-stats.vercel.app/api/spotify)](https://open.spotify.com/user/gzwq5bzpffejatbb1m9ie315j)
