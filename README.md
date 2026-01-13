@@ -2,10 +2,6 @@
 
 <h3>I'm Luciano, a full-stack engineer based in Brazil, with a focus on backend development. I primarily work with TypeScript and love building robust and scalable applications. Check out some of my personal and course projects below and feel free to explore my code!</h3>
 
-### Profile information
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoPierdona&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
 ### Spotify Playing 🎧
 
