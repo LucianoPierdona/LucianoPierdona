@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 
-<h3>I'm Luciano, a full-stack engineer based in Brazil, with a focus on backend development. I primarily work with TypeScript and love building robust and scalable applications. Check out some of my personal and course projects below and feel free to explore my code!</h3>
+<h3>Senior Fullstack Engineer with 6+ years delivering production systems across fintech, e-commerce, and crypto — from legacy PHP migrations to distributed Go microservices — using Node.js, React, AWS, and PostgreSQL. Check out some of my personal and course projects below and feel free to explore my code!</h3>
 
 
 ### Spotify Playing 🎧
